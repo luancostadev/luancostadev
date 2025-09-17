@@ -1,34 +1,73 @@
-### Olá 👋
+<!-- Barra de carregamento mais longa -->
+![Loading](https://readme-typing-svg.demolab.com/?lines=[░░░░░░░░░░░░░░░░░░░░]+0%;&lines=[████░░░░░░░░░░░░░░░]+10%;&lines=[████████░░░░░░░░░░]+20%;&lines=[████████████░░░░░]+30%;&lines=[████████████████░░]+40%;&lines=[████████████████████]+50%;&lines=[██████████████████████]+60%;&lines=[████████████████████████]+70%;&lines=[██████████████████████████]+80%;&lines=[████████████████████████████]+90%;&lines=[████████████████████████████████]+100%+Complete!;&center=true&size=30&color=1E90FF&width=1200&duration=7000)
 
-<br>
+---
 
-- 🔭 No momento, atuo como web developer
-- 🌱 Estudo tudo um pouco
+## 💻 About me
+> Full-Stack Developer
 
-<br>
 <div align="center">
-  <a href="https://github.com/luancostadev">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luancostadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br> <br>
-    <br>
-</div>
-  
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-  
-</div>
-<br>
- <br>
- <br>
-<div> 
-  <div> 
- 
 
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luancostaadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<table>
+<tr>
+<td>
+
+```javascript
+// Welcome to my full-stack playground!
+
+const aboutMe = {
+  role: "Multidisciplinary Developer",
+  mission: "Building seamless experiences across front-end, back-end, and QA.",
+  company: "Startup GIMB"
+};
+
+const experience = [
+  "Front-end development with Angular and API integrations",
+  "Data manipulation with MySQL",
+  "API maintenance and Java support",
+  "UI/UX planning and implementation for main interfaces",
+  "QA testing: functional tests, bug identification, quality assurance",
+  "User support and technical assistance"
+];
+
+const skills = [
+  "Angular", "Java", "MySQL", "REST APIs",
+  "JavaScript", "TypeScript", "React", "Node.js",
+  "UI/UX Design", "Testing & QA", "Cloud (AWS/Azure)", "Docker"
+];
+```
+</td>
+<td align="center">
+  <img align="right" height="700" src="https://i.imgur.com/CVtmQSj.gif" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,vscode,idea,git,github,figma,mysql,angular,react,docker,postgresql&theme=dark" style="margin:5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="40" style="margin:5px;" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luancostadev&show_icons=true&hide_border=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=3B82F6&bg_color=14395C" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancostadev&layout=compact&hide_border=true&bg_color=14395C&title_color=FFFFFF&text_color=FFFFFF&icon_color=3B82F6" />
+</div>
+
+---
+
+## 📬 Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/luan-costa-silva-33762a212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
