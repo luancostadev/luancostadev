@@ -59,8 +59,8 @@ const skills = [
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luancostadev&show_icons=true&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luancostadev&layout=compact&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luancostadev&show_icons=true&hide_border=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=3B82F6&bg_color=14395C" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luancostadev&layout=compact&hide_border=true&bg_color=14395C&title_color=FFFFFF&text_color=FFFFFF&icon_color=3B82F6" />
 </div>
 
 ---
