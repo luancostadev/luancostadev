@@ -16,13 +16,13 @@
 // Welcome to my full-stack playground!
 
 const aboutMe = {
-  role: "Multidisciplinary Developer",
-  mission: "Building seamless experiences across front-end, back-end, and QA.",
-  company: "Startup GIMB"
+  role: "Full-Stack Developer",
+  mission: "Building seamless experiences across front-end, back-end, and DevOps.",
+  company: "Jet Group"
 };
 
 const experience = [
-  "Front-end development with Angular and API integrations",
+  "Front-end development with Angular/React and API integrations",
   "Data manipulation with MySQL",
   "API maintenance and Java support",
   "UI/UX planning and implementation for main interfaces",
@@ -59,8 +59,8 @@ const skills = [
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luancostadev&show_icons=true&hide_border=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=3B82F6&bg_color=14395C" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancostadev&layout=compact&hide_border=true&bg_color=14395C&title_color=FFFFFF&text_color=FFFFFF&icon_color=3B82F6" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luancostadev&show_icons=true&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luancostadev&layout=compact&cache_seconds=1800" />
 </div>
 
 ---
